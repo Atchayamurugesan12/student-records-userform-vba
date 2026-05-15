@@ -25,10 +25,10 @@ A simple Student Management System developed using Microsoft Excel VBA UserForm.
 
 ## Screenshots
 ### Userform
-![Userform_filled](Screenshots/Userform_filled.png)
+![Userform_filled](Screenshots\Userform_filled.png)
 
 ### Output
-![Output](Screenshots/Output.png)
+![Output](Screenshots\Output.png)
 
 ## How to run the project
 - Download the `Student_records_vba.xlsm`
@@ -36,6 +36,3 @@ A simple Student Management System developed using Microsoft Excel VBA UserForm.
 - Enable macros and open the UserForm.
 - Start managing the student records.
 
-```markdown
-![UserForm](Screenshots/userform.png)
-![Excel Output](Screenshots/excel-output.png)
